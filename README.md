@@ -17,6 +17,14 @@ cap + e -> up 光标上移
 
     + f -> right 光标右移
 
+    + p -> home 行首
+
+    + u -> shift+home 选中到行首
+
+    + ; -> end 行尾
+
+    + o -> shift+end 选中到行尾
+
     + w -> backspace 光标左边删除一个
 
     + r -> delete 光标右边删除一个
